@@ -1,2 +1,2 @@
-# atm_cash_prediction
+# atm_cash_forecast
 Multivariate Time Series Forecasting with LSTM 
