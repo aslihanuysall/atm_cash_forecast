@@ -23,7 +23,7 @@ if __name__ == "__main__":
         cash_in = sys.argv[4]
     try:
         # Get Raw Data
-        df = pd.read_csv('/Users/aslihanuysal/Desktop/ds_exercise_data.csv')
+        df = pd.read_csv('./ds_exercise_data.csv')
         df = df.fillna(0)
 
         # Data Manipulations & Adding New Features
